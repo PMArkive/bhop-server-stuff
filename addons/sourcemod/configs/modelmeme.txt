@@ -1,0 +1,8 @@
+models/kemono_friends/silver_fox/silver_fox_player_tpose3.mdl
+models/kemono_friends/ezo_red_fox/ezo_red_fox_player_tpose.mdl
+models/kemono_friends/fennec/fennec_player_tpose.mdl
+models/kemono_friends/gray_wolf/gray_wolf_player_tpose.mdl
+models/kemono_friends/oinari_sama/oinari_sama_player_tpose.mdl
+models/kemono_friends/raccoon/raccoon_player_tpose.mdl
+models/kemono_friends/tibetan_sand_fox/tibetan_sand_fox_player_tpose.mdl
+models/paimon_tpose.mdl
